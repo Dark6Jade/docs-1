@@ -20,6 +20,9 @@ Public network:
 * [Binance Smart Chain](/blockchains/bsc)
 	* Mainnet. [Full and archive nodes](/operations/bsc/modes).
 	* Testnet
+* [Fantom](/blockchains/fantom)
+	* Mainnet. [Full and archive nodes](/operations/fantom/modes).
+	* Testnet
 * [Tezos](/blockchains/tezos)
 	* Mainnet. [Full and archive nodes](/operations/tezos/modes).
 	* Florencenet testnet.

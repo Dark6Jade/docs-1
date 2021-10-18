@@ -105,6 +105,17 @@ module.exports = {
                         ]
                     },
                     {
+                        title: 'Fantom',
+                        collapsable: true,
+                        children: [
+                            '/operations/fantom/',
+                            '/operations/fantom/networks',
+                            '/operations/fantom/types',
+                            '/operations/fantom/modes',
+                            '/operations/fantom/tools',
+                        ]
+                    },
+                    {
                         title: 'Tezos',
                         collapsable: true,
                         children: [
@@ -205,6 +216,13 @@ module.exports = {
                         children: [
                             '/tutorials/bsc/',
                             '/tutorials/bsc/bep-1155-contract-with-truffle-and-openzeppelin',
+                        ]
+                    },
+                     {
+                        title: 'Fantom',
+                        collapsable: true,
+                        children: [
+                            '/tutorials/fantom/',
                         ]
                     },
                     {
