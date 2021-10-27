@@ -222,7 +222,7 @@ module.exports = {
                         title: 'Fantom',
                         collapsable: true,
                         children: [
-                            '/tutorials/fantom/',
+                            '/tutorials/fantom/erc-721-collection-contract-with-truffle-and-openzeppelin',
                         ]
                     },
                     {
