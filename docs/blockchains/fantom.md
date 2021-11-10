@@ -6,7 +6,7 @@ meta:
     content: fantom geth blockchain lachesis bft
 ---
 
-# Binance Smart Chain
+# Fantom
 
 Fantom is a public permissionless smart contract platform.
 
